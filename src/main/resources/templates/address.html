@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>AddressBook Controller</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+    <h1 th:text="Welcome to the AddressBook: ${name}" />
+    <table class="table table-light">
+        <thead>
+        <tr>
+            <th scope="col">Name and Phone Number</th>
+        </tr>
+        </thead>
+        <tbody>
+<!--            <tr th:each="address: ${addresses}">-->
+            <tr>
+                <td th:text="${addresses.toString()}"/>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
