@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="144d52e8-2170-47dd-808e-2228a18739af" name="Changes" comment="Initial Lab4 files (changed JDK 24 to 25)">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sysc4806/kg/ta/AddressBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sysc4806/kg/ta/AddressBookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sysc4806/kg/ta/BuddyInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sysc4806/kg/ta/BuddyInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/sysc4806/kg/ta/RestServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/sysc4806/kg/ta/RestServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/AddressBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/AddressBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/AddressBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/AddressBookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/AddressBookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/AddressBookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/BuddyInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/BuddyInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/BuddyInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/BuddyInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/BuddyInfoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/BuddyInfoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/RestServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sysc4806/kg/ta/RestServiceApplication.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KarinaGarmendez&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KarinaGarmendez/SYSC4806Labs.git&quot;,
+    &quot;accountId&quot;: &quot;e80700bf-4782-45b6-ac0d-6f95af56b813&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3KO2fPpbiwaypKaXRVddSPyK6pp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.RestServiceApplicationTests.buddyInfoShouldReturnDefaultMessage.executor": "Run",
+    "JUnit.RestServiceApplicationTests.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.RestServiceApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "Lab5",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/superstar/Documents/Fall2026/TA/Labs/Lab5",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "Debugger_Data_Views_Java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RestServiceApplication">
+    <configuration name="RestServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sysc4806.kg.ta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sysc4806.kg.ta" />
+      <option name="MAIN_CLASS_NAME" value="sysc4806.kg.ta.RestServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestServiceApplicationTests.buddyInfoShouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sysc4806.kg.ta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sysc4806.kg.ta" />
+      <option name="MAIN_CLASS_NAME" value="sysc4806.kg.ta.RestServiceApplicationTests" />
+      <option name="METHOD_NAME" value="buddyInfoShouldReturnDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Lab5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sysc4806.kg.ta.RestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RestServiceApplicationTests.buddyInfoShouldReturnDefaultMessage" />
+        <item itemvalue="JUnit.RestServiceApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="144d52e8-2170-47dd-808e-2228a18739af" name="Changes" comment="" />
+      <created>1791414396817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791414396817</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Lab4 files (changed JDK to 25)" />
+    <MESSAGE value="Initial Lab4 files" />
+    <MESSAGE value="Initial Lab4 files (changed JDK 24 to 25)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Lab4 files (changed JDK 24 to 25)" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
